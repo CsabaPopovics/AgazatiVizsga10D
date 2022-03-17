@@ -1,0 +1,8 @@
+h1 {
+    background-color: rgb(236, 29, 243);
+    color: rgb(20, 8, 182);
+    text-align: center;
+    border: 5px solid rgb(85, 85, 85);
+    border-radius: 25px;
+    padding: 10px;
+}
