@@ -5,4 +5,30 @@ h1 {
     border: 5px solid rgb(85, 85, 85);
     border-radius: 25px;
     padding: 10px;
+    margin: 25px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(250, 6, 209);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: crimson;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:active {
+    color: aqua;
+}
+
+a:hover {
+    color: chocolate;
 }
